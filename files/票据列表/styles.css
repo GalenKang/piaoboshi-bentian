@@ -1855,8 +1855,8 @@
   top:326px;
   width:14px;
   height:14px;
-  font-family:'anticon Regular', 'anticon';
-  font-weight:400;
+  font-family:'anticon', 'anticon Medium', 'anticon Regular';
+  font-weight:500;
   font-style:normal;
   font-size:32px;
   color:#0E77D1;
@@ -3264,7 +3264,7 @@
 #u100 {
   border-width:0px;
   position:absolute;
-  left:163px;
+  left:165px;
   top:54px;
   width:103px;
   height:265px;
@@ -12857,7 +12857,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:15px;
+  width:17px;
   white-space:nowrap;
 }
 #u477 {
@@ -13263,7 +13263,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:15px;
+  width:17px;
   white-space:nowrap;
 }
 #u494 {
@@ -13381,7 +13381,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:15px;
+  width:17px;
   white-space:nowrap;
 }
 #u499 {
@@ -13499,7 +13499,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:15px;
+  width:17px;
   white-space:nowrap;
 }
 #u504 {
@@ -13617,7 +13617,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:15px;
+  width:17px;
   white-space:nowrap;
 }
 #u509 {
@@ -13735,7 +13735,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:15px;
+  width:17px;
   white-space:nowrap;
 }
 #u514 {
@@ -13853,7 +13853,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:15px;
+  width:17px;
   white-space:nowrap;
 }
 #u519 {
@@ -13971,7 +13971,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:15px;
+  width:17px;
   white-space:nowrap;
 }
 #u524 {
@@ -14089,7 +14089,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:15px;
+  width:17px;
   white-space:nowrap;
 }
 #u529 {
@@ -14207,7 +14207,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:15px;
+  width:17px;
   white-space:nowrap;
 }
 #u534 {
@@ -14325,7 +14325,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:15px;
+  width:17px;
   white-space:nowrap;
 }
 #u539 {
@@ -14443,7 +14443,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:15px;
+  width:17px;
   white-space:nowrap;
 }
 #u544 {
